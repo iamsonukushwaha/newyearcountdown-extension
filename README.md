@@ -5,7 +5,7 @@
 	
 </h1>
 
-<h1>We do not collect any of your data, it just display new year countdown</h1>
+<h2>We do not collect any of your data, it just display new year countdown</h2>
 <br><br><br><br>
 
 
