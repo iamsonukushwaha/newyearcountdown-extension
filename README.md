@@ -4,6 +4,8 @@
 	
 	
 </h1>
+
+<h1>We do not collect any of your data, it just display new year countdown</h1>
 <br><br><br><br>
 
 
